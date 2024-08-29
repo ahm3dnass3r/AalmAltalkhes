@@ -357,7 +357,7 @@ body {
     padding:50px 0px;
 }
 .contactPhoto{
-
+text-align: center;
 }
 .contactPhoto img{
     max-width: 100%;
@@ -383,3 +383,10 @@ color :#009688;
 .contactInfo h3 a:hover{
     color :#009625;
     }
+
+.profilePic{
+text-align: center;
+}
+.profilePic > img{
+ max-width: 50%;
+}
